@@ -1,0 +1,11 @@
+body {
+ background: url("/images/background.jpg") no-repeat center center fixed;
+   background-size: cover
+}
+.fill {object-fit: fill;}
+.contain {object-fit: contain;}
+.cover {object-fit: cover;}
+
+.card {margin-top: 10%;}
+
+.card1 {background: #555555 !important; color: white} 
