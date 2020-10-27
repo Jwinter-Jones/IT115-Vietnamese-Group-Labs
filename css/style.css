@@ -9,3 +9,6 @@ body {
 .card {margin-top: 10%;}
 
 .card1 {background: #555555 !important; color: white} 
+ol, ul{
+  font-size: 16px;
+}
